@@ -1,0 +1,11 @@
+C:\Users\TEMP\Documents\GitHub\Parser\SemiExp\bin\Debug\SemiExp.dll.config
+C:\Users\TEMP\Documents\GitHub\Parser\SemiExp\bin\Debug\SemiExp.dll
+C:\Users\TEMP\Documents\GitHub\Parser\SemiExp\bin\Debug\SemiExp.pdb
+C:\Users\TEMP\Documents\GitHub\Parser\SemiExp\bin\Debug\Toker.dll
+C:\Users\TEMP\Documents\GitHub\Parser\SemiExp\bin\Debug\Toker.pdb
+C:\Users\TEMP\Documents\GitHub\Parser\SemiExp\bin\Debug\Toker.dll.config
+C:\Users\TEMP\Documents\GitHub\Parser\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\Users\TEMP\Documents\GitHub\Parser\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Documents\GitHub\Parser\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\Users\TEMP\Documents\GitHub\Parser\SemiExp\obj\Debug\SemiExp.dll
+C:\Users\TEMP\Documents\GitHub\Parser\SemiExp\obj\Debug\SemiExp.pdb

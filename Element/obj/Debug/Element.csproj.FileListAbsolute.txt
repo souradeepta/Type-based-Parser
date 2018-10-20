@@ -1,0 +1,6 @@
+C:\Users\TEMP\Documents\GitHub\Parser\Element\bin\Debug\Element.dll
+C:\Users\TEMP\Documents\GitHub\Parser\Element\bin\Debug\Element.pdb
+C:\Users\TEMP\Documents\GitHub\Parser\Element\obj\Debug\Element.csprojAssemblyReference.cache
+C:\Users\TEMP\Documents\GitHub\Parser\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Documents\GitHub\Parser\Element\obj\Debug\Element.dll
+C:\Users\TEMP\Documents\GitHub\Parser\Element\obj\Debug\Element.pdb

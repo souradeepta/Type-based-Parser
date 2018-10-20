@@ -1,0 +1,6 @@
+C:\Users\TEMP\Documents\GitHub\Parser\FileMgr\bin\Debug\Navigate.dll
+C:\Users\TEMP\Documents\GitHub\Parser\FileMgr\bin\Debug\Navigate.pdb
+C:\Users\TEMP\Documents\GitHub\Parser\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Users\TEMP\Documents\GitHub\Parser\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Documents\GitHub\Parser\FileMgr\obj\Debug\Navigate.dll
+C:\Users\TEMP\Documents\GitHub\Parser\FileMgr\obj\Debug\Navigate.pdb
